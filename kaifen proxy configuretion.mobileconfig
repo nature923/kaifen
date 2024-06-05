@@ -18,7 +18,7 @@
 			<key>IsHotspot</key>
 			<false/>
 			<key>Password</key>
-			<string>613613613</string>
+			<string>*************3</string>
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
@@ -28,11 +28,11 @@
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>D526A999-70C4-4ADA-9B15-EE51DE672203</string>
+			<string>********</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.0.102</string>
+			<string>***********</string>
 			<key>ProxyServerPort</key>
 			<integer>1087</integer>
 			<key>ProxyType</key>
